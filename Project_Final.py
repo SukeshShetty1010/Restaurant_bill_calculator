@@ -8,17 +8,6 @@ import numpy as np
 import smtplib
 
 # SUKESH
-
-print("Group members")
-print()
-print("Sukesh Shetty")
-print()
-print("Roshan Bharti")
-print()
-print("Ankit Varma")
-print()
-print("Salim Shaikh")
-print()
 print()  # add project description
 print("*"*5 + "#"*5 + "ATR CAFE" + "#"*5 + "*"*5)  # Cafe Name
 name = 0
